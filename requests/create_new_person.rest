@@ -1,8 +1,8 @@
-#POST https://quiet-crag-45664.herokuapp.com/api/persons
-POST http://localhost:3001/api/persons  
+# POST https://https://quiet-crag-45664.herokuapp.com/api/persons
+POST https://https://quiet-crag-45664.herokuapp.com/api/persons
 content-type: application/json
 
 {
-    "name": "mika best",
+    "name": "mika",
     "number": "666"
 }
