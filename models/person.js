@@ -15,7 +15,7 @@ mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true })
     console.log('error connecting to MongoDB:', error.message)
   })
 
-  mongoose.set('useCreateIndex', true);
+// mongoose.set('useCreateIndex', true);
 
 
 // const personSchema = new mongoose.Schema({
