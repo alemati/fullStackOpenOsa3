@@ -1,8 +1,8 @@
-POST https://quiet-crag-45664.herokuapp.com/api/persons
-# http://localhost:3001/api/persons  
+#POST https://quiet-crag-45664.herokuapp.com/api/persons
+POST http://localhost:3001/api/persons  
 content-type: application/json
 
 {
-    "name": "Mimmi koivu",
-    "number": "757-981273"
+    "name": "mika best",
+    "number": "666"
 }
